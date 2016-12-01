@@ -1,0 +1,12 @@
+.\frame.o: frame.c
+.\frame.o: ../inc/tm4c123gh6pm.h
+.\frame.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\frame.o: heartbeat.h
+.\frame.o: input.h
+.\frame.o: ST7735.h
+.\frame.o: sound.h
+.\frame.o: game.h
+.\frame.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\frame.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\frame.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\frame.o: SysTick.h

@@ -1,0 +1,10 @@
+.\systick.o: SysTick.c
+.\systick.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\systick.o: ../inc/tm4c123gh6pm.h
+.\systick.o: heartbeat.h
+.\systick.o: game.h
+.\systick.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\systick.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\systick.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\systick.o: input.h
+.\systick.o: ST7735.h
